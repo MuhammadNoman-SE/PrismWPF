@@ -1,0 +1,9 @@
+D:\WpfPrism\C\bin\Debug\netcoreapp3.1\C.deps.json
+D:\WpfPrism\C\bin\Debug\netcoreapp3.1\C.dll
+D:\WpfPrism\C\bin\Debug\netcoreapp3.1\C.pdb
+D:\WpfPrism\C\obj\Debug\netcoreapp3.1\C.AssemblyInfoInputs.cache
+D:\WpfPrism\C\obj\Debug\netcoreapp3.1\C.AssemblyInfo.cs
+D:\WpfPrism\C\obj\Debug\netcoreapp3.1\C.csproj.CoreCompileInputs.cache
+D:\WpfPrism\C\obj\Debug\netcoreapp3.1\C.dll
+D:\WpfPrism\C\obj\Debug\netcoreapp3.1\C.pdb
+D:\WpfPrism\C\obj\Debug\netcoreapp3.1\C.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\WpfPrism\L\bin\Debug\netcoreapp3.1\L.deps.json
+D:\WpfPrism\L\bin\Debug\netcoreapp3.1\L.dll
+D:\WpfPrism\L\bin\Debug\netcoreapp3.1\L.pdb
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.csprojAssemblyReference.cache
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.AssemblyInfoInputs.cache
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.AssemblyInfo.cs
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.csproj.CoreCompileInputs.cache
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.dll
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.pdb
+D:\WpfPrism\L\bin\Debug\netcoreapp3.1\C.dll
+D:\WpfPrism\L\bin\Debug\netcoreapp3.1\C.pdb
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.csproj.CopyComplete
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\Views\LV.g.cs
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L_MarkupCompile.cache
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L_MarkupCompile.lref
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\Views\LV.baml
+D:\WpfPrism\L\obj\Debug\netcoreapp3.1\L.g.resources

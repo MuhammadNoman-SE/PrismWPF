@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfPrism.Views.WindowShell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfPrism.Views"
+        mc:Ignorable="d"
+        xmlns:prism="http://prismlibrary.com/"
+        Title="WindowShell" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <ContentControl Grid.Row="0" prism:RegionManager.RegionName="S"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <ContentControl Grid.Column="0" prism:RegionManager.RegionName="P"/>
+            <ContentControl  Grid.Column="1" prism:RegionManager.RegionName="L"/>
+        </Grid>
+        <ContentControl Grid.Row="2" prism:RegionManager.RegionName="N1"/>
+        <ContentControl Grid.Row="3" prism:RegionManager.RegionName="N2"/>
+    </Grid>
+</Window>

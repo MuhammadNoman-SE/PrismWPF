@@ -1,0 +1,12 @@
+D:\WpfPrism\WS\bin\Debug\WS.dll.config
+D:\WpfPrism\WS\bin\Debug\WS.dll
+D:\WpfPrism\WS\bin\Debug\WS.pdb
+D:\WpfPrism\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
+D:\WpfPrism\WS\obj\Debug\WS.dll
+D:\WpfPrism\WS\obj\Debug\WS.pdb
+D:\WpfPrism\WS\bin\Debug\EntityFramework.dll
+D:\WpfPrism\WS\bin\Debug\EntityFramework.SqlServer.dll
+D:\WpfPrism\WS\bin\Debug\EntityFramework.xml
+D:\WpfPrism\WS\bin\Debug\EntityFramework.SqlServer.xml
+D:\WpfPrism\WS\obj\Debug\WS.csproj.CopyComplete
+D:\WpfPrism\WS\obj\Debug\WS.csprojAssemblyReference.cache
